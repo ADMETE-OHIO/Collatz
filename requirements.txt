@@ -1,0 +1,6 @@
+BitVector
+matplotlib
+pillow
+numpy
+pandas
+altair
